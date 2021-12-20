@@ -10,6 +10,11 @@
   padding: .5rem 1rem;
   border-radius: 3px;
 }
+@media screen and (max-width: 540px) {
+  .header ul {
+    padding-left: 0;
+  }
+}
 
 .header ul li:hover {
   background-color: #444;
@@ -21,6 +26,11 @@
 
 .header h3 a {
   color: white;
+}
+@media screen and (max-width: 600px) {
+  .header h3 {
+    display: none;
+  }
 }
 
 .header h3 a:hover {
