@@ -1,6 +1,7 @@
 .header {
   margin-top: .5rem;
   padding-left: 10px;
+  justify-content: space-between;
 }
 
 .header ul li {
@@ -29,4 +30,10 @@
 .header button {
   height: 2.2rem;
   margin-top: 3px;
+}
+
+@media screen and (max-width: 860px) {
+  .header button {
+    display: none;
+  }
 }

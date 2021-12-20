@@ -8,9 +8,16 @@
 }
 
 .stardb-app {
+  position: relative;
   padding: 0 100px;
 }
 
 .stardb-app .row {
   margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 760px) {
+  .stardb-app {
+    padding: 0 15px;
+  }
 }
