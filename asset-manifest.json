@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/starDB/static/css/main.2d836559.chunk.css",
+    "main.js": "/starDB/static/js/main.cde4d810.chunk.js",
+    "main.js.map": "/starDB/static/js/main.cde4d810.chunk.js.map",
+    "runtime-main.js": "/starDB/static/js/runtime-main.ad94acab.js",
+    "runtime-main.js.map": "/starDB/static/js/runtime-main.ad94acab.js.map",
+    "static/js/2.ee41860f.chunk.js": "/starDB/static/js/2.ee41860f.chunk.js",
+    "static/js/2.ee41860f.chunk.js.map": "/starDB/static/js/2.ee41860f.chunk.js.map",
+    "index.html": "/starDB/index.html",
+    "static/css/main.2d836559.chunk.css.map": "/starDB/static/css/main.2d836559.chunk.css.map",
+    "static/js/2.ee41860f.chunk.js.LICENSE.txt": "/starDB/static/js/2.ee41860f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad94acab.js",
+    "static/js/2.ee41860f.chunk.js",
+    "static/css/main.2d836559.chunk.css",
+    "static/js/main.cde4d810.chunk.js"
+  ]
+}
